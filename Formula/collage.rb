@@ -1,8 +1,8 @@
 class Collage < Formula
   desc "Arrange photos into a gap-free collage of any shape"
   homepage "https://github.com/vinodhalaharvi/collage"
-  url "https://github.com/vinodhalaharvi/collage/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "ed30647ba1a71a15daf37f596b3ad2a71fd4ecdeea089ebce607ff5d012fee42"
+  url "https://github.com/vinodhalaharvi/collage/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "820d90591e39e602ced6c6f653fbaa7903e3e75fa68d73b19e2e5b4b651906a0"
   license "MIT"
   head "https://github.com/vinodhalaharvi/collage.git", branch: "main"
 

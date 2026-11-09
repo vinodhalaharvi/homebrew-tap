@@ -1,8 +1,8 @@
 class Camwall < Formula
   desc "Every camera feed on one gap-free wall, in a browser or as one stream"
   homepage "https://github.com/vinodhalaharvi/camwall"
-  url "https://github.com/vinodhalaharvi/camwall/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "36f97a871bcdabaf85ea7965d76716e95497970de75634532d2675d28ff1ea36"
+  url "https://github.com/vinodhalaharvi/camwall/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "12fd0e3fa856131613046b95782730bca9b1921ae14c1bcc17f3db7b8fb871e2"
   license "MIT"
   head "https://github.com/vinodhalaharvi/camwall.git", branch: "main"
 

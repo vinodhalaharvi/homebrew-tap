@@ -1,8 +1,8 @@
 class Tilegen < Formula
   desc "Compile a small spec into Go scaffolding, leaving precise holes for an LLM"
   homepage "https://github.com/vinodhalaharvi/tilegen"
-  url "https://github.com/vinodhalaharvi/tilegen/archive/refs/tags/v0.3.2.tar.gz"
-  sha256 "f3304d1cea65cb7283bcf07689be8e8ec2f18a916037dfa8a114ec8dff0e382f"
+  url "https://github.com/vinodhalaharvi/tilegen/archive/refs/tags/v0.3.3.tar.gz"
+  sha256 "959538a6426ef691ba7bc35f0d49ff714aad722994847db525a0d57d3b04ea88"
   license "MIT"
   head "https://github.com/vinodhalaharvi/tilegen.git", branch: "main"
 
